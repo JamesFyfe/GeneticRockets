@@ -245,7 +245,7 @@ function setSpeed(s) {
 	speedText.innerHTML = speed;
 }
 
-function changePOV() {   //toggle only winner drawn
+function changePOV() {   //toggle only winner is drawn
 	if(winnerPOV)
 		winnerPOV = false;
 	else
