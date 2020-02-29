@@ -268,25 +268,3 @@ function keyReleased() {
 		}
 	}
 }
-
-// function draw() {
-// 	background("#b5d1ff");
-// 	fill("green");
-// 	rect(0, height/2 + 25 + r1.y, width, height);
-// 	r1.update();
-// 	r1.show();
-// 	//console.log(r1);
-// 	//noLoop();
-// }
-
-// this.show = function() {
-// 		if(this.fireing)
-// 			fill(200, 0, 0);
-// 		else
-// 			fill(235);
-// 		//translate(this.x, height*0.8 - this.y - rHeight/2);
-// 		translate(width/2, height/2);
-// 		rotate(Math.PI/2-this.angle);
-// 		//rect(-rWidth/2, -rHeight/2, rWidth, rHeight);
-// 		rect(-rWidth/2, -rHeight/2, rWidth, rHeight);
-// 	}
